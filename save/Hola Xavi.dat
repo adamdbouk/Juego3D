@@ -1,0 +1,68 @@
+1 0 0 0 0 1 0 0 0 0 1 0 2.44722 0 2.31151 1 
+data/Assets/Structure/aigua.obj
+data/Assets/Structure/aigua.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 -4.79049 0 2.17861 1 
+data/Assets/Structure/aigua.obj
+data/Assets/Structure/aigua.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 -4.40733 0 -6.55408 1 
+data/Assets/Structure/aigua.obj
+data/Assets/Structure/aigua.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 3.95482 0 -6.54557 1 
+data/Assets/Structure/aigua.obj
+data/Assets/Structure/aigua.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 1.62469 0 -7.49378 1 
+data/Assets/Structure/arbol.obj
+data/Assets/Structure/arbol.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 -6.98757 0 -6.4744 1 
+data/Assets/Structure/arbol.obj
+data/Assets/Structure/arbol.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 -6.34738 0 4.08374 1 
+data/Assets/Structure/armario.obj
+data/Assets/Structure/armario.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 0.607369 0 5.47881 1 
+data/Assets/Structure/bricks.obj
+data/Assets/Structure/bricks.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 2.40669 0 5.44904 1 
+data/Assets/Structure/bricks.obj
+data/Assets/Structure/bricks.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 3.95685 0 5.46808 1 
+data/Assets/Structure/bricks.obj
+data/Assets/Structure/bricks.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 6.28874 0 -2.86978 1 
+data/Assets/Structure/electricidad.obj
+data/Assets/Structure/electricidad.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 5.38202 0 1.85183 1 
+data/Assets/Structure/generator.obj
+data/Assets/Structure/generator.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 -1.38275 0 -4.60009 1 
+data/Assets/Decoration/azucar.obj
+data/Assets/Decoration/azucar.png
+dynamic
+1 0 0 0 0 1 0 0 0 0 1 0 2.12816 0 -4.30623 1 
+data/Assets/Decoration/azucar.obj
+data/Assets/Decoration/azucar.png
+dynamic
+1 0 0 0 0 1 0 0 0 0 1 0 -3.3455 0 -1.55822 1 
+data/Assets/Decoration/azucar.obj
+data/Assets/Decoration/azucar.png
+dynamic
+1 0 0 0 0 1 0 0 0 0 1 0 -3.06084 0 3.61226 1 
+data/Assets/Decoration/azucar.obj
+data/Assets/Decoration/azucar.png
+dynamic
+1 0 0 0 0 1 0 0 0 0 1 0 1.12737 0 4.11582 1 
+data/Assets/Decoration/azucar.obj
+data/Assets/Decoration/azucar.png
+dynamic

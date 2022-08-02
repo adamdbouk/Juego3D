@@ -1,0 +1,40 @@
+1 0 0 0 0 1 0 0 0 0 1 0 -7.22197 0 5.44257 1 
+data/Assets/Structure/3paredes_bricks.obj
+data/Assets/Structure/3paredes_bricks.png
+static
+-1 0 0 0 0 1 0 0 0 0 -1 0 4.19709 -0.5 3.73468 1 
+data/Assets/Structure/3paredes_bricks.obj
+data/Assets/Structure/3paredes_bricks.png
+static
+-0.707107 0 -0.707107 0 0 1 0 0 0.707107 0 -0.707107 0 -2.8021 0 -0.772617 1 
+data/Assets/Structure/3paredes_bricks.obj
+data/Assets/Structure/3paredes_bricks.png
+static
+-0.707107 0 -0.707107 0 0 1 0 0 0.707107 0 -0.707107 0 4.53622 0 -2.6344 1 
+data/Assets/Structure/3paredes_bricks.obj
+data/Assets/Structure/3paredes_bricks.png
+static
+-0.707107 0 -0.707107 0 0 1 0 0 0.707107 0 -0.707107 0 12.7539 0 -7.25228 1 
+data/Assets/Structure/3paredes_bricks.obj
+data/Assets/Structure/3paredes_bricks.png
+static
+-0.707107 0 -0.707107 0 0 1 0 0 0.707107 0 -0.707107 0 7.2136 0 -12.2941 1 
+data/Assets/Structure/3paredes_bricks.obj
+data/Assets/Structure/3paredes_bricks.png
+static
+1 0 0 0 0 1 0 0 0 0 1 0 -0.243743 0 -16.4448 1 
+data/Assets/Spawn/spawn.obj
+data/Assets/Spawn/spawn.png
+spawner
+1 0 0 0 0 1 0 0 0 0 1 0 15.3819 0 -0.342279 1 
+data/Assets/Spawn/spawn.obj
+data/Assets/Spawn/spawn.png
+spawner
+1 0 0 0 0 1 0 0 0 0 1 0 -14.111 0 -0.0616505 1 
+data/Assets/Spawn/spawn.obj
+data/Assets/Spawn/spawn.png
+spawner
+1 0 0 0 0 1 0 0 0 0 1 0 -0.0873127 0 -0.145235 1 
+data/Assets/Spawn/spawn.obj
+data/Assets/Spawn/spawn.png
+spawner
